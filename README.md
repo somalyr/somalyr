@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @somalyr
-- 📫 How to reach me: Roeungskr@gmail.com
+- 📫 reach me @ Roeungskr@gmail.com
 
 <!---
 somalyr/somalyr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
