@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @somalyr
+- 👋 Hi, I’m Somaly!
 - 📫 reach me @ Roeungskr@gmail.com
 
 <!---
